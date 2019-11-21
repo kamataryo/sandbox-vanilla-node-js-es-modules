@@ -1,0 +1,12 @@
+{
+  "name": "sandbox-vanilla-node-js-es-modules",
+  "description": "My sandbox to try ESModules with Vanilla Node.js.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kamataryo/sandbox-vanilla-node-js-es-modules.git",
+  "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}

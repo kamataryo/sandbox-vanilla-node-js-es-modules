@@ -7,6 +7,8 @@
   "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.mjs"
-  }
+    "start:node": "node index.mjs",
+    "start:browser": "npx http-server -o -c-1"
+  },
+  "devDependencies": {}
 }
